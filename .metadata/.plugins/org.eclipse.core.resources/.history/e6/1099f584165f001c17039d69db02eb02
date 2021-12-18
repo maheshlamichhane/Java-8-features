@@ -1,0 +1,13 @@
+package function.with.primitive.type.functional_interface;
+
+import java.util.function.UnaryOperator;
+
+public class Test5 {
+
+	public static void main(String[] args) {
+		
+		UnaryOperator<Integer> my_operator = 
+
+	}
+
+}

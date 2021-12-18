@@ -1,0 +1,12 @@
+package predicate.program.with.and.or.default_function;
+import java.util.function.*;
+public class Test {
+
+	public static void main(String[] args) {
+		
+		int[] x = { 0, 5,10,15,20,25,30 };
+		Predicate<Integer> p1 = i  -> i > 10;
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package anonymous.inner_classes.instance.variable.with.lambda;
+
+public class Test {
+	
+	public static void main(String args[]) {
+		
+	}
+
+}

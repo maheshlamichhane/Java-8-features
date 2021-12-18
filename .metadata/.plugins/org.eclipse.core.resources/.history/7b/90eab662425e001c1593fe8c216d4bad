@@ -1,0 +1,16 @@
+package consumer.program.for_movie.information.display;
+
+import java.util.List;
+
+public class Test {
+	
+	public static void populate(List<Movie> list) {
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

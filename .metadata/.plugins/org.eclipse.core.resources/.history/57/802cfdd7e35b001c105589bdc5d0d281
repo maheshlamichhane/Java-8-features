@@ -1,0 +1,9 @@
+package predicate.program.to.find.collection.empty.or.not;
+
+public class Test {
+	
+	public static void main(String args[]) {
+		
+	}
+
+}

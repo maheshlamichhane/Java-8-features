@@ -1,0 +1,5 @@
+package consumer.program.with.predicate.and.function;
+
+public class Student {
+
+}

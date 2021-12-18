@@ -1,0 +1,11 @@
+package function.with.primitive.type.functional_interface;
+
+public class Test6 {
+
+	public static void main(String[] args) {
+		
+		BiPredicate<String,String,String> my_predicate = (s1,s2) -> s1+s2;
+
+	}
+
+}

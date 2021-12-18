@@ -1,0 +1,15 @@
+package method.reference.with.static_method;
+
+public class Test {
+	
+	public static void MyFunction() {
+		System.out.println("Method Reference");
+	}
+
+	public static void main(String[] args) {
+		
+		Interf i = Test :: MyFunction;
+
+	}
+
+}

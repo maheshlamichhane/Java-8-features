@@ -1,0 +1,11 @@
+package supplier.with.primitive.type.functional_interface;
+
+import java.util.function.IntSupplier;
+
+public class Test {
+
+	public static void main(String[] args) {
+		IntSupplier my_supplier = () -> Math.random() * 10;
+	}
+
+}

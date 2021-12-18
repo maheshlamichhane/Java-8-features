@@ -1,0 +1,10 @@
+package predicate.program.to.find.greater.than.ten.number;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

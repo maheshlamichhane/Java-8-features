@@ -1,0 +1,9 @@
+package BiFunction.program.of.monthly.salary.of.employee;
+
+public class Employee {
+	
+	int eno;
+	String name;
+	double dailly_wage;
+	
+}

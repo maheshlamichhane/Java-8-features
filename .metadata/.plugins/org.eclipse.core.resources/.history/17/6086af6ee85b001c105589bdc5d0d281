@@ -1,0 +1,5 @@
+package predicate.program.for_user.authentication;
+
+public class User {
+
+}

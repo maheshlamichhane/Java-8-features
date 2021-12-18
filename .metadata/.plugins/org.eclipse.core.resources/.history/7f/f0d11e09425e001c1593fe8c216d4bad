@@ -1,0 +1,5 @@
+package consumer.program.for_movie.information.display;
+
+public class Movie {
+
+}

@@ -1,0 +1,10 @@
+package example.of.local_date_time_class;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package program.to.convert.list.into.sorted.list.default_order;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		List<Integer> mylist = new ArrayList<Integer>();
+
+	}
+
+}

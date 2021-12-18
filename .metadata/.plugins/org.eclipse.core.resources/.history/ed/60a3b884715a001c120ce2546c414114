@@ -1,0 +1,14 @@
+package anonymous.inner_classes.instance.variable.with.lambda;
+
+public class Test {
+	
+	int x = 888;
+	
+	public static void main(String args[]) {
+		Interf i = new Interf() {
+			int x = 999;
+			public
+		}
+	}
+
+}

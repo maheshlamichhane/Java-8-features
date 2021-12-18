@@ -1,0 +1,11 @@
+package program.to.print.list.with.forEach.processing;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

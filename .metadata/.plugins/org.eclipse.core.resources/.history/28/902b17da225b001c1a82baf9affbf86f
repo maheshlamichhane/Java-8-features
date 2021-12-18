@@ -1,0 +1,8 @@
+package static_method.inside.functional_interface;
+
+public class Test implements Interf {
+		
+	public static void main(String args[]) {
+		
+	}
+}

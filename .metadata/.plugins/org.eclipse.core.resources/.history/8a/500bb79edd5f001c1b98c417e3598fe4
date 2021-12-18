@@ -1,0 +1,16 @@
+package example.of.local_time_class;
+
+import java.time.LocalTime;
+
+public class Test {
+
+	public static void main(String[] args)
+	{
+		LocalTime now = LocalTime.now();
+		LocalTime mytime = LocalTime.of(8, 45)
+		
+		System.out.println("Current Time="+now);
+
+	}
+
+}

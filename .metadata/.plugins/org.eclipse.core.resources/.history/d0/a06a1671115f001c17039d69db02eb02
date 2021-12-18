@@ -1,0 +1,12 @@
+package function.with.primitive.type.functional_interface;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		// it takes both input parameters and output parameters
+		
+
+	}
+
+}

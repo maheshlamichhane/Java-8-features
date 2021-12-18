@@ -1,0 +1,18 @@
+package consumer.program.with.predicate.and.function;
+
+import java.util.List;
+
+public class Test {
+	
+	public static void populate(List<Student> list) {
+		list.add(new Student("Mahesh",90));
+		list.add(new Student("Pits",70));
+		list.add(new Student("Kamal",50));
+		list.add(new Student("Sagar",40));
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}

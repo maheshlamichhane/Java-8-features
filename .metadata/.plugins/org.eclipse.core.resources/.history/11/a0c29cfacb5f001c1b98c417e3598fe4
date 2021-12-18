@@ -1,0 +1,10 @@
+package program.of.finding.list.with.more.than.nine.characters.with.count.processing;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

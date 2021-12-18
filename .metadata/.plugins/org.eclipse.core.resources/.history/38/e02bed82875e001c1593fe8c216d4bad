@@ -1,0 +1,11 @@
+package BiFunction.program.of.creating.object.with.two.arguments;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Student> mylist = new ArrayList<Student>();
+
+	}
+
+}

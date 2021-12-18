@@ -1,0 +1,10 @@
+package consumer.program.chain.example;
+
+public class Movie {
+	
+	String name;
+	String result;
+	
+	
+
+}

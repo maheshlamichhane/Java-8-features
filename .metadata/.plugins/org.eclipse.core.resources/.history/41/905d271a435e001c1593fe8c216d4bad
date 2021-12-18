@@ -1,0 +1,6 @@
+package consumer.program.with.predicate.and.function;
+
+public class Student {
+		String name;
+		int marks;
+}

@@ -1,0 +1,13 @@
+package supplier.program.strong.password.program;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Supplier<String> my_supplier = () -> {
+			
+		};
+
+	}
+
+}

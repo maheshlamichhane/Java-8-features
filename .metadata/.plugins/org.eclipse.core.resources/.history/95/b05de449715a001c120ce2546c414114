@@ -1,0 +1,5 @@
+package anonymous.inner_classes.instance.variable.with.lambda;
+
+public class Test {
+
+}

@@ -1,0 +1,16 @@
+package example.of.zone.id;
+
+import java.time.ZoneId;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		ZoneId zone = ZoneId.systemDefault();
+		System.out.println(zone);
+		
+		ZoneId la = ZoneId.of("America/Los_Angles");
+
+	}
+
+}

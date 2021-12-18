@@ -1,0 +1,5 @@
+package static_method.inside.functional_interface;
+
+public class Test {
+
+}

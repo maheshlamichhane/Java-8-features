@@ -1,0 +1,13 @@
+package predicate.program.for_employee.management.system;
+
+public class Employee {
+	
+	String name;
+	String designation;
+	double salary;
+	String city;
+	
+	
+	
+
+}

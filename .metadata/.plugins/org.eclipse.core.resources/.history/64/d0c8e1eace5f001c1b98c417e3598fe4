@@ -1,0 +1,11 @@
+package program.to.convert.list.to.arary.with.toArray.processing;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		List<Integer> mylist = new ArrayList<Integer>();
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package predicate.program.for_employee.management.system;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		List<Employee> list = new ArrayList<Employee>();
+		list.add(new Employee("Durga","CEO",30000,"Hyderabad"));
+		System.out.pritnln(list);
+		
+
+	}
+
+}

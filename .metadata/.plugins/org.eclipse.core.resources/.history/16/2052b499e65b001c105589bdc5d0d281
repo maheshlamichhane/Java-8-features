@@ -1,0 +1,10 @@
+package predicate.program.to.find.string.start.with.m.letter;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

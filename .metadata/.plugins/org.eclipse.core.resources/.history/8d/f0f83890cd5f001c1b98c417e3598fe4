@@ -1,0 +1,14 @@
+package program.to.find.max.and.min.with.max.min.function;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		List<Integer> mylist = new ArrayList<Integer>();
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package BiFunction.program.of.creating.object.with.two.arguments;
+
+import java.util.ArrayList;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Student> mylist = new ArrayList<Student>();
+		BiFunction<String,Integer,Student> f1 = (name,roll) -> new Student(name,roll);
+
+	}
+
+}

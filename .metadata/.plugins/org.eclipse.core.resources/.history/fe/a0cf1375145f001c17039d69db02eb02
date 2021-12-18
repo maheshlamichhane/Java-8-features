@@ -1,0 +1,14 @@
+package consumer.with.primitive.type.functional_interface;
+
+public class Emp {
+	String name;
+	double salary;
+}
+public class Test2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package example.of.local_date_time_class;
+
+import java.time.LocalDateTime;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		LocalDateTime now = LocalDateTime.now();
+		
+		System.out.println("Current Date and Time ="+now);
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package default_method.inside.functional_interface;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+
+/** 
+ * 
+ * default method inside the functional interface is possible.
+ * if multiple interface contains same default method then we can override those method
+ * and call them using interface name
+ */
+*/

@@ -1,0 +1,22 @@
+package Function_functional.interface_program.of.total.salary.of.all.employee;
+
+import java.util.List;
+
+public class Test {
+	
+	public static void populate(List<Employee> list) {
+		list.add(new Employee("Mahesh",10000));
+		list.add(new Employee("Pits",12000));
+		list.add(new Employee("Sagar",15000));
+		list.add(new Employee("Kamal",200000));
+		list.add(new Employee("Nabin",3000000));
+	}
+
+	public static void main(String[] args)
+	{
+		
+		
+
+	}
+
+}

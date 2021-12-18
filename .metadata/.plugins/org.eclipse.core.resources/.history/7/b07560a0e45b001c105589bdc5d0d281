@@ -1,0 +1,10 @@
+package predicate.program.with.and.or.default_function;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

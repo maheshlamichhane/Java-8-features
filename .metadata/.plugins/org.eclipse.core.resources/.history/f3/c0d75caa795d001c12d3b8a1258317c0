@@ -1,0 +1,12 @@
+package Function_functional.interface_program.of.counting.whitespaces.in.string;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		
+		String my_string = "My Name Is Mahesh Lamichhane";
+
+	}
+
+}

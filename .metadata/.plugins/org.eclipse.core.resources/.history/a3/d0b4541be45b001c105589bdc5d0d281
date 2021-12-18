@@ -1,0 +1,14 @@
+package predicate.program.to.find.collection.empty.or.not;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Predicate;
+public class Test {
+	
+	public static void main(String args[]) {
+		
+		Predicate<List> list = s -> s.isEmpty();
+		List<String> mylist = new ArrayList<String>();
+		System.out.println(list.test(mylist));
+	}
+
+}

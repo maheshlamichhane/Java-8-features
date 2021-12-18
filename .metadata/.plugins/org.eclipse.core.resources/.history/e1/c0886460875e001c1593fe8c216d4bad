@@ -1,0 +1,8 @@
+package BiFunction.program.of.creating.object.with.two.arguments;
+
+public class Student {
+
+	String name;
+	int roll;
+
+}

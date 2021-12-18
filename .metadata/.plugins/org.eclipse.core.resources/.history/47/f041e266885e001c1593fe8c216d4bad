@@ -1,0 +1,10 @@
+package BiFunction.program.of.monthly.salary.of.employee;
+
+public class TimeSheet {
+	
+	int eno;
+	int days;
+	
+	
+
+}

@@ -1,0 +1,18 @@
+package consumer.with.primitive.type.functional_interface;
+
+class Emp {
+	String name;
+	double salary;
+	public Emp(String name, double salary) {
+		this.name = name;
+		this.salary = salary;
+	}	
+}
+public class Test2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

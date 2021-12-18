@@ -1,0 +1,11 @@
+package function.with.primitive.type.functional_interface;
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		
+		ToIntFunction<String> my_function
+
+	}
+
+}

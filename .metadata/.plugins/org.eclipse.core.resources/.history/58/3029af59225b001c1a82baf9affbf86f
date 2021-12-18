@@ -1,0 +1,27 @@
+package default_method.inside.functional_interface;
+
+public class Test implements Left {
+	
+	
+
+	public static void main(String[] args) {
+		
+		Test test = new Test();
+		test.m1();
+		
+	}
+
+	
+
+	
+
+
+}
+
+
+/** 
+ * 
+ * default method inside the functional interface is possible.
+ * if multiple interface contains same default method then we can override those method
+ * and call them using interface name
+ */

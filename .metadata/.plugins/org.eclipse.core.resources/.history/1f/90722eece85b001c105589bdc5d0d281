@@ -1,0 +1,14 @@
+package predicate.program.for_user.authentication;
+import java.util.Scanner;
+import java.util.function.Predicate;
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Predicate<User> user_predicate = user -> user.equals("mahesh") && user.equals("lamichhane");
+		
+		Scanner sc = new Scanner(System.in);
+
+	}
+
+}

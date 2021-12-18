@@ -1,0 +1,12 @@
+package consumer.program.for_movie.information.display;
+
+public class Movie {
+	
+	String name;
+	String hero;
+	String heroine;
+	
+	
+	
+
+}

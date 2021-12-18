@@ -1,0 +1,12 @@
+package BiFunction.program.of.monthly.salary.of.employee;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Employee e = new Employee(101,"mahesh",25);
+		TimeSheet s = new TimeSheet(101,1500);
+
+	}
+
+}

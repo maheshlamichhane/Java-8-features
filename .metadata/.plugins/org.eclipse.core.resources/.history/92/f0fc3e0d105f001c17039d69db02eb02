@@ -1,0 +1,14 @@
+package predicate.with.primitive.type.functional_interface;
+
+public class Test {
+
+	public static void main(String[] args) 
+	{
+		// it has a function which takes only input paramters so
+		// it can only take paramters and return boolean always
+		
+		
+
+	}
+
+}

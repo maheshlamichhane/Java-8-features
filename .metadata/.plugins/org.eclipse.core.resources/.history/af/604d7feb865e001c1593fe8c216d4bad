@@ -1,0 +1,11 @@
+package BiFunction.program.of.returning.product.of.two.number;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		BiFunctiona<Integer,Integer,Double> f1 = (a,b) -> a*b;
+
+	}
+
+}

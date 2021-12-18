@@ -1,0 +1,5 @@
+package default_method.inside.functional_interface;
+
+public interface Right {
+
+}

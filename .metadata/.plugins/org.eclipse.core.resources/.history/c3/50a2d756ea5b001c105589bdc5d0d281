@@ -1,0 +1,16 @@
+package predicate.program.for_enginer.going.to.pub.or.not;
+
+import java.util.List;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		
+		List<SoftwareEngineer> mylist = {
+				new SoftwareEngineer("Nabin",27,true),
+		};
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package example.of.local_date_time_class;
+
+import java.time.LocalDateTime;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		LocalDateTime now = LocalDateTime.now();
+		LocalDateTime myfulldate = LocalDateTime.of(1994,11,28,12,45);
+		
+		System.out.println("Current Date and Time ="+now);
+
+	}
+
+}

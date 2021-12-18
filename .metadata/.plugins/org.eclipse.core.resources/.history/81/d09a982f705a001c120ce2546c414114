@@ -1,0 +1,14 @@
+package anonymous.inner_class.runnable.without.lambda;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Runnable r = new Runnable() {
+			
+		}
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package example.of.local_date_class;
+
+import java.time.LocalDate;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		LocalDate now = LocalDate.now();
+
+	}
+
+}
